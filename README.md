@@ -1,9 +1,6 @@
 # do_an_java_spring_boot
 do_an_java_spring_boot
 </br>
-
-</br>
-Liên hệ www.facebook.com/phantanh1234
 <table style="width:100%">
   <tr>
     <th>Họ và tên</th>
